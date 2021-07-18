@@ -11,6 +11,9 @@ Code is explained in :![Task#1 .ipynb](https://github.com/SNEHA-NANDAKUMAR19/Col
 **IDE:Pycharm and jupiter notebook**
 
 **libraries:opencv,pandas**
+## OUTPUT
+![video.mp4](https://user-images.githubusercontent.com/83720529/126081340-801114dc-773d-4031-ac2a-6164b75e8487.mp4)
+
 
 
 
