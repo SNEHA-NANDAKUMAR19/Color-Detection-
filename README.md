@@ -12,7 +12,7 @@ Complete source code:![main.py](https://github.com/SNEHA-NANDAKUMAR19/Color-Dete
 
 DATASET : ![colors.csv](https://github.com/SNEHA-NANDAKUMAR19/Color-Detection-/blob/fde52572eb3ba4c4a5b04f31caf21ad8939d1234/colors.csv)
 
-> Code is explained in :![Task#1 .ipynb](https://github.com/SNEHA-NANDAKUMAR19/Color-Detection-/blob/00dddd82c0409e5286a16c31884eb368738ac12f/Task%231%20.ipynb)
+>Code is explained in :![Task#1 .ipynb](https://github.com/SNEHA-NANDAKUMAR19/Color-Detection-/blob/00dddd82c0409e5286a16c31884eb368738ac12f/Task%231%20.ipynb)
 
 **IDE:Pycharm and jupiter notebook**
 
